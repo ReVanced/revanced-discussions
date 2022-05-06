@@ -1,3 +1,5 @@
 # 💡 ReVanced Suggestions
 
-Submit suggestions [here](https://github.com/revanced/revanced-suggestions/issues).
+### 🔧 Moved to GitHub organization discussions
+
+This repository is now archived. New suggestions should be submitted [here](https://github.com/orgs/revanced/discussions) along with other discussions.
