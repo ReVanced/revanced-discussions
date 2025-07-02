@@ -66,7 +66,7 @@ body:
 
         Before creating a new question, please keep the following in mind:
 
-        - **Do not submit a duplicate question**: Search for existing questions [here](https://github.com/orgs/ReVanced/discussions/categories/questions?discussions_q=category%3AQuestions).
+        - **Do not submit a duplicate question**: Search for existing questions [here](https://github.com/orgs/ReVanced/discussions?discussions_q=).
         - **Do not submit bug reports or feature requests (e.g., Patch requests)**: These should be submitted in the respective repositories at [here](https://github.com/orgs/revanced/repositories).
   - type: textarea
     attributes:
