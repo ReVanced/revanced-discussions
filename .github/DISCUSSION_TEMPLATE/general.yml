@@ -87,3 +87,5 @@ body:
           required: true
         - label: All requested information has been provided properly.
           required: true
+        - label: This discussion is not a feature request or bug report
+          required: true
