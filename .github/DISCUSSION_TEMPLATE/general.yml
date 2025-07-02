@@ -67,7 +67,7 @@ body:
         Before creating a new discussion, please keep the following in mind:
 
         - **Do not submit a duplicate discussion**: Search for existing discussions [here](https://github.com/orgs/ReVanced/discussions/categories/general?discussions_q=category%3AGeneral).
-        - **Do not submit bug reports or feature requests**: These should be submitted in the respective repositories at [here](https://github.com/orgs/revanced/repositories).
+        - **Do not submit bug reports or feature requests (e.g., Patch request)**: These should be submitted in the respective repositories at [here](https://github.com/orgs/revanced/repositories).
   - type: textarea
     attributes:
       label: About
@@ -87,5 +87,5 @@ body:
           required: true
         - label: All requested information has been provided properly.
           required: true
-        - label: This discussion is not a feature request or bug report
+        - label: This discussion is not a bug report or feature request
           required: true
